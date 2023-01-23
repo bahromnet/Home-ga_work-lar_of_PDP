@@ -1,0 +1,15 @@
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\bin\Debug\net6.0\OOP_HomeWork_2.exe
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\bin\Debug\net6.0\OOP_HomeWork_2.deps.json
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\bin\Debug\net6.0\OOP_HomeWork_2.runtimeconfig.json
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\bin\Debug\net6.0\OOP_HomeWork_2.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\bin\Debug\net6.0\OOP_HomeWork_2.pdb
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\obj\Debug\net6.0\OOP_HomeWork_2.csproj.AssemblyReference.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\obj\Debug\net6.0\OOP_HomeWork_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\obj\Debug\net6.0\OOP_HomeWork_2.AssemblyInfoInputs.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\obj\Debug\net6.0\OOP_HomeWork_2.AssemblyInfo.cs
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\obj\Debug\net6.0\OOP_HomeWork_2.csproj.CoreCompileInputs.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\obj\Debug\net6.0\OOP_HomeWork_2.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\obj\Debug\net6.0\refint\OOP_HomeWork_2.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\obj\Debug\net6.0\OOP_HomeWork_2.pdb
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\obj\Debug\net6.0\OOP_HomeWork_2.genruntimeconfig.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_HomeWork_2\OOP_HomeWork_2\obj\Debug\net6.0\ref\OOP_HomeWork_2.dll

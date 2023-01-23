@@ -1,0 +1,15 @@
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\bin\Debug\net7.0\OOP_Homework_7.exe
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\bin\Debug\net7.0\OOP_Homework_7.deps.json
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\bin\Debug\net7.0\OOP_Homework_7.runtimeconfig.json
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\bin\Debug\net7.0\OOP_Homework_7.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\bin\Debug\net7.0\OOP_Homework_7.pdb
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\obj\Debug\net7.0\OOP_Homework_7.csproj.AssemblyReference.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\obj\Debug\net7.0\OOP_Homework_7.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\obj\Debug\net7.0\OOP_Homework_7.AssemblyInfoInputs.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\obj\Debug\net7.0\OOP_Homework_7.AssemblyInfo.cs
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\obj\Debug\net7.0\OOP_Homework_7.csproj.CoreCompileInputs.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\obj\Debug\net7.0\OOP_Homework_7.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\obj\Debug\net7.0\refint\OOP_Homework_7.dll
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\obj\Debug\net7.0\OOP_Homework_7.pdb
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\obj\Debug\net7.0\OOP_Homework_7.genruntimeconfig.cache
+E:\ProGraM\DotNet\VisualStudio_Programms\OOP_Homework_7\OOP_Homework_7\obj\Debug\net7.0\ref\OOP_Homework_7.dll
